@@ -1,0 +1,57 @@
+"Phrases"
+{
+    "DATES_MENU_TITLE"
+    {
+        "ru"    "DemosDownloader\nВыберите желаемую дату"
+        "en"    "DemosDownloader\nSelect the desired date"
+    }
+    "HOURS_MENU_TITLE"
+    {
+        "ru"    "DemosDownloader\nВыберите желаемое время:"
+        "en"    "DemosDownloader\nSelect the desired time:"
+    }
+    "DEMOS_MENU_TITLE"
+    {
+        "ru"    "DemosDownloader\nСписок демок:"
+        "en"    "DemosDownloader\nDemos list:"
+    }
+    "Request cooldown"
+    {
+        "#format"   "{1:i}"
+        "ru"    "Подождите {1} секунд перед запросом!"
+        "en"    "Please wait {1} seconds before request!"
+    }
+    "No demos"
+    {
+        "ru"    "Нет демок"
+        "en"    "No demos"
+    }
+    "Download cooldown"
+    {
+        "#format"   "{1:i}"
+        "ru"    "Демку можно скачать через {1} секунд"
+        "en"    "Demo can be downloaded in {1} seconds"
+    }
+    "Download failure"
+    {
+        "ru"    "Демо не удается отправить!"
+        "en"    "Demo cannot be sent!"
+    }
+    "Download still"
+    {
+        "ru"    "Вы еще загружаете демо!"
+        "en"    "You are still downloading the demo!"
+    }
+    "Download success"
+    {
+        "#format"   "{1:s}"
+        "ru"    "Загружается {1}...\Демка будет находится в CSS/cstrike/download/demos/"
+        "en"    "Loading {1}...\nwill be located in CSS/cstrike/download/demos/"
+    }
+    "Download success time"
+    {
+        "#format"   "{1:s},{2:i}"
+        "ru"    "Загружается {1}...\nВремя загрузки ~ {2} сек\nДемка будет находится в CSS/cstrike/download/demos/"
+        "en"    "Loading {1}...\nDownload time ~ {2} sec\nDemo will be located in CSS/cstrike/download/demos/"
+    }
+}
